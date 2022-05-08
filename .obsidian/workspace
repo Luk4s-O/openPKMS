@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "44932ead125c8faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c670a285aa938d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14d6800450130c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "b830f7f0dcd690c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91deec9993c1e4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba552c9f355ffa63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184
+  },
+  "right": {
+    "id": "b275878d6249750e",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a8f8cf580a41eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ec12b502c1fb33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9c670a285aa938d",
+  "lastOpenFiles": [
+    "README.md",
+    "derivative.md",
+    "derivative notation.md",
+    "integral.md",
+    "differential equations.md",
+    "trigonometry.md",
+    "antiderivative.md",
+    "vector.md",
+    "mechanics/Unit 1.md",
+    "sum.md"
+  ]
+}

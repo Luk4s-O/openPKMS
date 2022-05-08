@@ -1,0 +1,1 @@
+Welcome to my second brain. This is my PKM database.
