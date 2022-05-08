@@ -1,1 +1,1 @@
-Welcome to my second brain. This is my PKM database.
+Welcome to my second brain. This is my sequential PKM database.
