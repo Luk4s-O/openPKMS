@@ -7,8 +7,12 @@
         "id": "c9c670a285aa938d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ellipse.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ellipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "c9c670a285aa938d",
   "lastOpenFiles": [
+    "ellipse.md",
     "derivative.md",
     "differential equations.md",
     "dynamics.md",
@@ -91,7 +97,6 @@
     "function.md",
     "fourier transform.md",
     "eccentiricity.md",
-    "ellipse.md",
     "integral.md",
     "limit.md"
   ]
