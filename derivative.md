@@ -10,73 +10,57 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 For any value of $c$, where $c \in \mathbb{R}$, for any value of $x \in \mathbb{R}$, $\frac{d}{dx} \left( c \right)= 0$
 
 
-In Leibniz [[derivative notation]] this is written as:
+In Leibniz's [[derivative notation]] this is written as:
 $$\frac{d(af+bg)}{dx}  = a\frac{df}{dx} +b\frac{dg}{dx}.$$
 
 Special cases include:
-* The constant factor rule $(af) = af $
+* The constant factor rule $(af) = af$
 * The sum rule $(f + g) = f + g$
 * The subtraction rule $(f - g) = f - g.$
 
-#### The product rule
+#### product rule
 For the functions $f$ and $g$, the derivative of the function $h(x) = f(x) g(x)$ with respect to $x$ is
-$ h(x) = (fg)(x) = f(x) g(x) + f(x) g(x).$
-In Leibnizs notation this is written
-$\frac{d(fg)}{dx} = \frac{df}{dx} g + f \frac{dg}{dx}.$
+$$h(x) = (fg)(x) = f(x) g(x) + f(x) g(x)$$
+In Leibniz's notation this is written
+$$\frac{d(fg)}{dx} = \frac{df}{dx} g + f \frac{dg}{dx}$$
 
-===The chain rule===
-{{main|Chain rule}}
+#### chain rule
 
 The derivative of the function $h(x) = f(g(x))$ is
-$ h(x) = f(g(x))\cdot g(x).$
+$$h(x) = f(g(x))\cdot g(x)$$
 
-In Leibnizs notation, this is written as:
-$\frac{d}{dx}h(x) = \left.\frac{d}{dz}f(z)\right|_{z=g(x)}\cdot \frac{d}{dx}g(x),$
+In Leibniz's [[derivative notation]], this is written as:
+$$\frac{d}{dx}h(x) = \left.\frac{d}{dz}f(z)\right|_{z=g(x)}\cdot \frac{d}{dx}g(x)$$
 often abridged to
-$\frac{dh(x)}{dx} = \frac{df(g(x))}{dg(x)} \cdot \frac{dg(x)}{dx}.$
-
-Focusing on the notion of maps, and the differential being a map $\text{D}$, this is written in a more concise way as:
-[[integral|antiderivative]]$ [\text{D} (f\circ g)]_x = [\text{D} f]_{g(x)} \cdot [\text{D}g]_x\,.$
-
-===The inverse function rule===
-
-{{main|Inverse functions and differentiation}}
-
-If the function {{Mvar|f}} has an [[inverse function]] {{Mvar|g}}, meaning that $g(f(x)) = x$ and $f(g(y)) = y,$ then
+$$\frac{dh(x)}{dx} = \frac{df(g(x))}{dg(x)} \cdot \frac{dg(x)}{dx}$$
+#### inverse function rule
+If the function $f$ has an [[inverse function]] {{Mvar|g}}, meaning that $g(f(x)) = x$ and $f(g(y)) = y,$ then
 $g = \frac{1}{f\circ g}.$
 
 In Leibniz notation, this is written as
-$ \frac{dx}{dy} = \frac{1}{\frac{dy}{dx}}.$
-
-==Power laws, polynomials, quotients, and reciprocals==
-===The polynomial or elementary power rule===
-
-{{main|Power rule}}
-
-If $f(x) = x^r$, for any real number $r \neq 0,$ then 
-:$f(x) = rx^{r-1}.$
+$$\frac{dx}{dy} = \frac{1}{\frac{dy}{dx}}$$
+#### power rule
+If $$f(x) = x^r$$for any real number $r \neq 0,$ then 
+$$f(x) = rx^{r-1}$$
 
 When $r = 1,$ this becomes the special case that if $f(x) = x,$ then $f(x) = 1.$
 
-Combining the power rule with the sum and constant multiple rules permits the computation of the derivative of any polynomial.
+Combining the power rule with the sum and constant multiple rules permits the computation of the derivative of any [[polynomial]].
 
-===The reciprocal rule===
+#### reciprocal rule
+The derivative of $$h(x)=\frac{1}{f(x)}$$for any (nonvanishing) function $f$ is:
 
-{{main|Reciprocal rule}}
-The derivative of $h(x)=\frac{1}{f(x)}$for any (nonvanishing) function {{Mvar|f}} is:
+$$h(x) = -\frac{f(x)}{(f(x))^2}$$wherever $f$ is non-zero.
 
-:$ h(x) = -\frac{f(x)}{(f(x))^2}$ wherever {{Mvar|f}} is non-zero.
-
-In Leibnizs notation, this is written
+In [[Leibniz's notation]], this is written
 
 :$ \frac{d(1/f)}{dx} = -\frac{1}{f^2}\frac{df}{dx}.$
 
 The reciprocal rule can be derived either from the quotient rule, or from the combination of power rule and chain rule.
 
-===The quotient rule===
-{{main|Quotient rule}}
-If {{Mvar|f}} and {{Mvar|g}} are functions, then:
-:$\left(\frac{f}{g}\right) = \frac{fg - gf}{g^2}\quad$ wherever {{Mvar|g}} is nonzero.
+#### The quotient rule
+If $f$ and $g$ are functions, then:
+$$\left(\frac{f}{g}\right) = \frac{fg - gf}{g^2}$$ wherever $g$ is nonzero.
 
 This can be derived from the product rule and the reciprocal rule.
 

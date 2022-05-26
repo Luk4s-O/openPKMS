@@ -1,3 +1,3 @@
 ---
-aliases: [antiderivative, antiderivatives]
+aliases: [antiderivative, antiderivatives, integrals]
 ---
