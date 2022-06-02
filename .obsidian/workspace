@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mechanics.md",
+            "file": "dynamics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mechanics.md",
+                "file": "dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c9c670a285aa938d",
   "lastOpenFiles": [
+    "dynamics.md",
+    "eccentiricity.md",
+    "ellipse.md",
+    "fourier transform.md",
     "mechanics.md",
     "VELKYKOKOT.md",
     "derivative notation.md",
     "differential equations.md",
-    "dynamics.md",
     "paganism.md",
-    "slavic paganism.md",
-    "eccentiricity.md",
-    "slavs.md",
-    "calculus.md"
+    "slavic paganism.md"
   ]
 }
