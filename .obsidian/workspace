@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ellipse.md",
+            "file": "derivative notation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ellipse.md",
+                "file": "derivative notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c9c670a285aa938d",
   "lastOpenFiles": [
-    "ellipse.md",
-    "derivative.md",
+    "derivative notation.md",
     "differential equations.md",
     "dynamics.md",
-    "derivative notation.md",
-    "function.md",
-    "fourier transform.md",
+    "paganism.md",
+    "slavic paganism.md",
     "eccentiricity.md",
-    "integral.md",
-    "limit.md"
+    "slavs.md",
+    "calculus.md",
+    "pantheon.md",
+    "README.md"
   ]
 }

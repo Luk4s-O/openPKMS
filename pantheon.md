@@ -1,0 +1,1 @@
+pantheon is the general term used to describe the set of all [[god|gods]] of any [[paganism|polytheistic religion]].

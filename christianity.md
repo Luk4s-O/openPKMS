@@ -1,0 +1,1 @@
+an abrahamic religion, globally the current most popular [[religion]].
