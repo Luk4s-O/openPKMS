@@ -7,8 +7,12 @@
         "id": "c9c670a285aa938d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "slavic paganism.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "slavic paganism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,8 @@
   },
   "active": "c9c670a285aa938d",
   "lastOpenFiles": [
+    "slavic paganism.md",
+    "paganism.md",
     "dynamics.md",
     "eccentiricity.md",
     "ellipse.md",
@@ -90,8 +97,6 @@
     "mechanics.md",
     "VELKYKOKOT.md",
     "derivative notation.md",
-    "differential equations.md",
-    "paganism.md",
-    "slavic paganism.md"
+    "differential equations.md"
   ]
 }
