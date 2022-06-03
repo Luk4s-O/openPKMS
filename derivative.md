@@ -54,17 +54,15 @@ $$h(x) = -\frac{f(x)}{(f(x))^2}$$wherever $f$ is non-zero.
 
 In [[Leibniz's notation]], this is written
 
-$$ \frac{d(\frac{1}{f})}{dx} = -\frac{1}{f^2}\frac{df}{dx}.$$
-
+$$ \frac{d(\frac{1}{f})}{dx} = -\frac{1}{f^2}\frac{df}{dx}$$
 The reciprocal rule can be derived either from the quotient rule, or from the combination of power rule and chain rule.
 
 #### The quotient rule
 If $f$ and $g$ are functions, then:
 $$\left(\frac{f}{g}\right) = \frac{fg - gf}{g^2}$$ wherever $g$ is nonzero.
-
 This can be derived from the product rule and the reciprocal rule.
 
-===Generalized power rule===
+#### Generalized power rule
 
 {{main|Power rule}}
 
