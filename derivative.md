@@ -76,7 +76,7 @@ Special cases
 
 #### Derivatives of exponential and logarithmic functions
 
-$ \frac{d}{dx}\left(c^{ax}\right) = {ac^{ax} \ln c } ,\qquad c > 0$
+$$\frac{d}{dx}\left(c^{ax}\right) = {ac^{ax} \ln c } ,\qquad c > 0$$
 the equation above is true for all {{Mvar|c}}, but the derivative for <math display="inline">c<0$ yields a complex number.
 
 :$ \frac{d}{dx}\left(e^{ax}\right) = ae^{ax}$
