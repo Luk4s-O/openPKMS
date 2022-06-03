@@ -77,13 +77,13 @@ Special cases
 #### Derivatives of exponential and logarithmic functions
 
 $$\frac{d}{dx}\left(c^{ax}\right) = {ac^{ax} \ln c } ,\qquad c > 0$$
-the equation above is true for all {{Mvar|c}}, but the derivative for <math display="inline">c<0$ yields a complex number.
+the equation above is true for all {{Mvar|c}}, but the derivative for $c<0$ yields a complex number.
 
 :$ \frac{d}{dx}\left(e^{ax}\right) = ae^{ax}$
 
 :$ \frac{d}{dx}\left( \log_c x\right) = {1 \over x \ln c} , \qquad c > 1$
 
-the equation above is also true for all {{Mvar|c}}, but yields a complex number if <math display="inline">c<0\!$.
+the equation above is also true for all {{Mvar|c}}, but yields a complex number if $c<0\!$.
 
 :$ \frac{d}{dx}\left( \ln x\right)  = {1 \over x} ,\qquad x > 0.$
 
