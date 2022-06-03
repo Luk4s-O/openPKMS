@@ -72,7 +72,7 @@ wherever both sides are well defined.
 
 Special cases
 * If $f(x)=x^a!$, then $f(x)=ax^{a-1}$ when $a$ is any non-zero real number and $x$ is positive.
-* The reciprocal rule may be derived as the special case where g(x)=-1\!$.
+* The reciprocal rule may be derived as the special case where $g(x)=-1\!$.
 
 == Derivatives of exponential and logarithmic functions ==
 
