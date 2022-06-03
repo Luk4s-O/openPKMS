@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c670a285aa938d",
+        "id": "06ae70278319a031",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative notation.md",
+            "file": "slavic paganism.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative notation.md",
-                "collapseAll": false,
+                "file": "slavic paganism.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c9c670a285aa938d",
+  "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "slavic paganism.md",
+    "paganism.md",
+    "limit.md",
+    "integral.md",
+    "god.md",
+    "function.md",
     "derivative notation.md",
     "derivative.md",
     "conic section.md",
-    "christianity.md",
-    "calculus.md",
-    "paganism.md",
-    "slavic paganism.md",
-    "orbital mechanics.md",
-    "slavs.md",
-    "dynamics.md"
+    "christianity.md"
   ]
 }
