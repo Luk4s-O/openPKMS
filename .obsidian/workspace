@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paganism.md",
+            "file": "derivative.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paganism.md",
+                "file": "derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c9c670a285aa938d",
   "lastOpenFiles": [
+    "derivative.md",
+    "conic section.md",
+    "christianity.md",
+    "calculus.md",
     "paganism.md",
     "slavic paganism.md",
     "orbital mechanics.md",
     "slavs.md",
     "dynamics.md",
-    "eccentiricity.md",
-    "ellipse.md",
-    "fourier transform.md",
-    "mechanics.md",
-    "VELKYKOKOT.md"
+    "eccentiricity.md"
   ]
 }
