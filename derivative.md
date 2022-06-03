@@ -66,9 +66,8 @@ This can be derived from the product rule and the reciprocal rule.
 
 {{main|Power rule}}
 
-The elementary power rule generalizes considerably. The most general power rule is the functional power rule: for any functions {{Mvar|f}} and {{Mvar|g}},
-
-:$(f^g) = \left(e^{g\ln f}\right) = f^g\left(f{g \over f} + g\ln f\right),\quad$
+The elementary power rule generalizes considerably. The most general power rule is the functional power rule: for any functions $f$ and $g$
+$$(f^g) = \left(e^{g\ln f}\right) = f^g\left(f{g \over f} + g\ln f\right)\quad$$
 wherever both sides are well defined.
 
 Special cases
