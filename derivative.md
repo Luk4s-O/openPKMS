@@ -72,11 +72,11 @@ wherever both sides are well defined.
 
 Special cases
 * If $f(x)=x^a!$, then $f(x)=ax^{a-1}$ when $a$ is any non-zero real number and $x$ is positive.
-* The reciprocal rule may be derived as the special case where $g(x)=-1\!$.
+* The reciprocal rule may be derived as the special case where $g(x)=-1!$.
 
-== Derivatives of exponential and logarithmic functions ==
+#### Derivatives of exponential and logarithmic functions
 
-:$ \frac{d}{dx}\left(c^{ax}\right) = {ac^{ax} \ln c } ,\qquad c > 0$
+$ \frac{d}{dx}\left(c^{ax}\right) = {ac^{ax} \ln c } ,\qquad c > 0$
 the equation above is true for all {{Mvar|c}}, but the derivative for <math display="inline">c<0$ yields a complex number.
 
 :$ \frac{d}{dx}\left(e^{ax}\right) = ae^{ax}$
