@@ -71,7 +71,7 @@ $$(f^g) = \left(e^{g\ln f}\right) = f^g\left(f{g \over f} + g\ln f\right)\quad$$
 wherever both sides are well defined.
 
 Special cases
-* If <math display="inline">f(x)=x^a\!$, then <math display="inline">f(x)=ax^{a-1}$when {{Mvar|a}} is any non-zero real number and {{Mvar|x}} is positive.
+* If $f(x)=x^a!$, then <math display="inline">f(x)=ax^{a-1}$when {{Mvar|a}} is any non-zero real number and {{Mvar|x}} is positive.
 * The reciprocal rule may be derived as the special case where <math display="inline">g(x)=-1\!$.
 
 == Derivatives of exponential and logarithmic functions ==
