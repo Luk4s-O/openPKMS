@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative notation.md",
+            "file": "chain rule.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leibniz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative notation.md",
+                "file": "chain rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +90,8 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
-    "derivative notation.md",
+    "chain rule.md",
+    "Leibniz derivative notation.md",
     "differential equations.md",
     "difference between codomain and range.md",
     "Leibniz's notation for antidifferentiation.md",
@@ -97,7 +99,6 @@
     "calculus.md",
     "polynomial.md",
     "power rule.md",
-    "derivative.md",
-    "inverse function rule.md"
+    "derivative.md"
   ]
 }
