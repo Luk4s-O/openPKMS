@@ -10,8 +10,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[product rule|product rule]]
 - [[chain rule|chain rule]]
 - [[inverse function rule]]
-
-#### power rule
+- [[power rule]]
 If $$f(x) = x^r$$for any real number $r \neq 0,$ then 
 $$f(x) = rx^{r-1}$$
 

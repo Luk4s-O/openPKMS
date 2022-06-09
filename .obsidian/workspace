@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inverse function rule.md",
+            "file": "derivative.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inverse function rule.md",
+                "file": "derivative.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "derivative.md",
     "inverse function rule.md",
     "inverse function.md",
-    "derivative.md",
     "eccentiricity.md",
     "dynamics.md",
     "function.md",
