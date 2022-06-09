@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "product rule.md",
+            "file": "derivative.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product rule.md",
+                "file": "derivative.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
-    "product rule.md",
+    "derivative.md",
     "derivative notation.md",
+    "god.md",
+    "product rule.md",
     "constant term rule.md",
     "chain rule.md",
-    "derivative.md",
     "slavic paganism.md",
     "paganism.md",
     "limit.md",
-    "integral.md",
-    "god.md"
+    "integral.md"
   ]
 }
