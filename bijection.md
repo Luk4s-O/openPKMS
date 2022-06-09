@@ -1,1 +1,1 @@
-A relation described within [[set theory]]. Bijective relation is a relation between two functions 
+A relation described within [[set theory]]. A bijective function is a function which has a one-to-one relation between each 
