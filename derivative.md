@@ -6,9 +6,9 @@ aliases: [differentiation, differentiate, derivatives]
 For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative of the function $h(x) = af(x) + bg(x)$ with respect to $x$ is: $h(x) = a f(x) + b g(x)$
 ## derivatives have individual rules...
 ### Elementary rules of differentiation
-- [[derivative constant term rule|constant term rule]]
-- [[derivative product rule|product rule]]
-- [[derivative chain rule|chain rule]]
+- [[constant term rule|constant term rule]]
+- [[product rule|product rule]]
+- [[chain rule|chain rule]]
 
 The derivative of the function $h(x) = f(g(x))$ is
 $$h(x) = f(g(x))\cdot g(x)$$
