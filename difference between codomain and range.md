@@ -1,9 +1,9 @@
 While both are related to output, the difference between the two is quite subtle. The term [[range]] sometimes is used to refer to [[codomain]]. 
 
 When you distinguish between the two, then you can refer to codomain as the output the function is declared to produce.
-The term range, however, is ambiguous because it can be sometimes used exactly as Codomain is used.
+The term range, however, is ambiguous because it can be sometimes used exactly as codomain is used.
 
-Let’s take $f: A -> B$, where _f_ is the function from A to B. Then, B is the codomain of the function “_f_” and range is the set of values that the function takes on, which is denoted by _f_ (A). Range can be equal to or less than codomain but cannot be greater than that.
+Let’s take $f: A -> B$, where $f$ is the function from $A$ to $B$. Then, $B$ is the codomain of the function $f$ and range is the set of values that the function takes on, which is denoted by _f_ (A). Range can be equal to or less than codomain but cannot be greater than that.
 
 For example, let $A = \{1, 2, 3, 4, 5\}$ and $B = \{1, 4, 8, 16, 25, 64, 125\}$. The function _f_: A -> B is defined by $f(x) = x^3$. So here,
 
