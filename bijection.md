@@ -1,1 +1,1 @@
-Bijective relation is a relation between two functions 
+A relation described within [[set theory]]. Bijective relation is a relation between two functions 
