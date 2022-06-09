@@ -1,1 +1,1 @@
-Bijective relation 
+Bijective relation is a relation between two functions 
