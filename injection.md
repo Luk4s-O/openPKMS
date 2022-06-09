@@ -1,1 +1,1 @@
-in set theory, injective functions are ones which, for every input, there is a unique output. 
+in [[set theory]], injective functions are ones which, for every input, there is a unique output. 
