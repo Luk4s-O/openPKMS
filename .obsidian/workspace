@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "set theory.md",
+            "file": "eccentiricity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "set theory.md",
+                "file": "eccentiricity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "eccentiricity.md",
+    "dynamics.md",
+    "function.md",
+    "god.md",
+    "ellipse.md",
+    "differential equations.md",
     "set theory.md",
     "injection.md",
     "bijection.md",
-    "difference between codomain and range.md",
-    "function.md",
-    "inverse function.md",
-    "inverse function rule.md",
-    "derivative.md",
-    "chain rule.md",
-    "derivative notation.md"
+    "difference between codomain and range.md"
   ]
 }
