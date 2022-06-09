@@ -21,11 +21,4 @@ Leibniz's notation for differentiation does not require assigning a meaning to s
 
 Some authors and journals set the differential symbol {{math|''d''}} in [[roman type]] instead of [[italic type|italic]]: {{math|d''x''}}. The [[ISO/IEC 80000]] scientific style guide recommends this style.
 
-Leibniz's notation for antidifferentiation
-{{image frame|width=200|innerstyle=font-size:400%; line-height: 120%; font-family:Times New Roman, serif; text-align:center;|
-caption = The single and double indefinite integrals of <var>y</var> with respect to <var>x</var>, in the Leibniz notation. |
-content =∫ ''y'' ''dx''<br>∫∫ ''y'' ''dx''{{sup|2}}}}
 
-{{for|functions of 2 or more variables|Multiple integral}}
-
-Leibniz introduced the [[integral symbol]] in ''Analyseos tetragonisticae pars secunda'' and ''Methodi tangentium inversae exempla'' (both from 1675).  It is now the standard symbol for [[integral|integration]].
