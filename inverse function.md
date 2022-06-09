@@ -1,1 +1,1 @@
-in mathematics, an inverse function, say, of $f$, is one which undoes its operation
+In mathematics, the inverse function of a function $f$ is a function that undoes the operation of $f$. The inverse is denoted by a negative first exponent, e.g. 
