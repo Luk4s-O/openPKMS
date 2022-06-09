@@ -7,8 +7,12 @@
         "id": "06ae70278319a031",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "calculus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "calculus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "calculus.md",
     "polynomial.md",
     "power rule.md",
     "derivative.md",
@@ -92,7 +98,6 @@
     "difference between codomain and range.md",
     "inverse function rule.md",
     "inverse function.md",
-    "eccentiricity.md",
-    "dynamics.md"
+    "eccentiricity.md"
   ]
 }
