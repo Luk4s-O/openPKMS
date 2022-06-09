@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ISO/IEC 80000.md",
+            "file": "derivative notation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISO/IEC 80000.md",
+                "file": "derivative notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
-    "ISO/IEC 80000.md",
     "derivative notation.md",
+    "ISO/IEC 80000.md",
     "calculus.md",
     "polynomial.md",
     "power rule.md",
