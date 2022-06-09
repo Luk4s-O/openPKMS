@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative.md",
+            "file": "inverse function rule.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative.md",
+                "file": "inverse function rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "inverse function rule.md",
     "derivative.md",
     "chain rule.md",
     "derivative notation.md",
@@ -96,7 +97,6 @@
     "constant term rule.md",
     "slavic paganism.md",
     "paganism.md",
-    "limit.md",
-    "integral.md"
+    "limit.md"
   ]
 }
