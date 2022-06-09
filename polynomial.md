@@ -1,0 +1,1 @@
+Polynomials are algebraic expressions that consist of variables and coefficients. Variables are also sometimes called indeterminates. We can perform arithmetic operations such as addition, subtraction, multiplication and also positive integer exponents for polynomial expressions but not division by variable.

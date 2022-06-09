@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative.md",
+            "file": "polynomial.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative.md",
+                "file": "polynomial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "polynomial.md",
+    "power rule.md",
     "derivative.md",
+    "derivative notation.md",
+    "differential equations.md",
+    "difference between codomain and range.md",
     "inverse function rule.md",
     "inverse function.md",
     "eccentiricity.md",
-    "dynamics.md",
-    "function.md",
-    "god.md",
-    "ellipse.md",
-    "differential equations.md",
-    "set theory.md"
+    "dynamics.md"
   ]
 }

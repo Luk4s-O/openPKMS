@@ -11,13 +11,6 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[chain rule|chain rule]]
 - [[inverse function rule]]
 - [[power rule]]
-If $$f(x) = x^r$$for any real number $r \neq 0,$ then 
-$$f(x) = rx^{r-1}$$
-
-When $r = 1,$ this becomes the special case that if $f(x) = x,$ then $f(x) = 1.$
-
-Combining the power rule with the sum and constant multiple rules permits the computation of the derivative of any [[polynomial]].
-
 #### reciprocal rule
 The derivative of $$h(x)=\frac{1}{f(x)}$$for any (nonvanishing) function $f$ is:
 
