@@ -1,3 +1,4 @@
+Functions f and g are inverses if $f(g(x))=x=g(f(x))$. For every pair of such functions, the derivatives f' and g' have a special relationship.
 If the function $f$ has an [[inverse function]] $g$, meaning that $g(f(x)) = x$ and $f(g(y)) = y,$ then
 $g = \frac{1}{f\circ g}.$
 
