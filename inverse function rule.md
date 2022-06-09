@@ -6,4 +6,4 @@ $$g = \frac{1}{f\circ g}$$
 In Leibniz notation, this is written as
 $$\frac{dx}{dy} = \frac{1}{\frac{dy}{dx}}$$
 or
-$$\dfrac{dy}{dx}=\dfrac{d}{dx}(f^{−1}(x))=(f^{−1})'(x)=\dfrac{1}{f'(f^{−1}(x))}\label{inverse1}$$
+$$\dfrac{dy}{dx}=\dfrac{d}{dx}(f^{−1}(x))=(f^{−1})'(x)=\dfrac{1}{f'(f^{−1}(x))}$$
