@@ -5,7 +5,6 @@ aliases: [differentiation, differentiate, derivatives]
 ## Differentiation is linear
 For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative of the function $h(x) = af(x) + bg(x)$ with respect to $x$ is: $h(x) = a f(x) + b g(x)$
 ## derivatives have individual rules...
-### Elementary rules of differentiation
 #### Constant Term Rule
 For any value of $c$, where $c \in \mathbb{R}$, for any value of $x \in \mathbb{R}$, $\frac{d}{dx} \left( c \right)= 0$
 
