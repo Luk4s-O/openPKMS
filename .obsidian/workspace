@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative notation.md",
+            "file": "ISO/IEC 80000.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative notation.md",
+                "file": "ISO/IEC 80000.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "ISO/IEC 80000.md",
     "derivative notation.md",
     "calculus.md",
     "polynomial.md",
@@ -97,7 +98,6 @@
     "differential equations.md",
     "difference between codomain and range.md",
     "inverse function rule.md",
-    "inverse function.md",
-    "eccentiricity.md"
+    "inverse function.md"
   ]
 }

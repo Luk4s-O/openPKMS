@@ -17,7 +17,7 @@ Leibniz's notation allows one to specify the variable for differentiation (in th
 
 $$\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}$$
 
-Leibniz's notation for differentiation does not require assigning a meaning to symbols such as {{math|''dx''}} or {{math|''dy''}} on their own, and some authors do not attempt to assign these symbols meaning.  Leibniz treated these symbols as [[infinitesimal]]s.  Later authors have assigned them other meanings, such as infinitesimals in [[non-standard analysis]] or [[exterior derivative]]s.
+Leibniz's notation for differentiation does not require assigning a meaning to symbols such as $dx$ or $dy$ on their own, and some authors do not attempt to assign these symbols meaning.  Leibniz treated these symbols as [[infinitesimal|infinitesimals]].  Later authors have assigned them other meanings, such as infinitesimals in [[non-standard analysis]] or [[exterior derivative]]s.
 
 Some authors and journals set the differential symbol {{math|''d''}} in [[roman type]] instead of [[italic type|italic]]: {{math|d''x''}}. The [[ISO/IEC 80000]] scientific style guide recommends this style.
 
