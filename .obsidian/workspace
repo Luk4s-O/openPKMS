@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bijection.md",
+            "file": "function.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bijection.md",
+                "file": "function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
-    "bijection.md",
     "function.md",
+    "bijection.md",
     "injection.md",
     "inverse function.md",
     "inverse function rule.md",
