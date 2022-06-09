@@ -9,13 +9,8 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[constant term rule|constant term rule]]
 - [[product rule|product rule]]
 - [[chain rule|chain rule]]
+- [[inverse function rule]]
 
-#### inverse function rule
-If the function $f$ has an [[inverse function]] {{Mvar|g}}, meaning that $g(f(x)) = x$ and $f(g(y)) = y,$ then
-$g = \frac{1}{f\circ g}.$
-
-In Leibniz notation, this is written as
-$$\frac{dx}{dy} = \frac{1}{\frac{dy}{dx}}$$
 #### power rule
 If $$f(x) = x^r$$for any real number $r \neq 0,$ then 
 $$f(x) = rx^{r-1}$$
