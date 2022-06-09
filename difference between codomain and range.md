@@ -7,9 +7,8 @@ Let’s take $f: A \to B$, where $f$ is the function from $A$ to $B$. Then, $B
 
 For example, let $A = \{1, 2, 3, 4, 5\}$ and $B = \{1, 4, 8, 16, 25, 64, 125\}$. The function $f: A \to B$ is defined by $f(x) = x^3$. So here,
 
-- Domain = Set $A$
-- Codomain = Set $B$, and
+- Domain $=$ Set $A$
+- Codomain $=$ Set $B$, and
+- Range $=\{1, 8, 64, 125\}$
 
-Range (R) = {1, 8, 64, 125}
-
-The range should be cube of set A, but cube of 3 (that is 27) is not present in the set B, so we have 3 in domain, but we don’t have 27 either in codomain or range. The range is the subset of the codomain.
+The range should be cube of set $A$, but cube of 3 (that is 27) is not present in the set $B$, so we have 3 in domain, but we don’t have 27 either in codomain or range. The range is the subset of the codomain.
