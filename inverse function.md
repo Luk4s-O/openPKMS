@@ -1,0 +1,1 @@
+in mathematics, an inverse function, say, of $f$, is one which undoes its operation
