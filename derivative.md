@@ -10,13 +10,6 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[product rule|product rule]]
 - [[chain rule|chain rule]]
 
-The derivative of the function $h(x) = f(g(x))$ is
-$$h(x) = f(g(x))\cdot g(x)$$
-
-In Leibniz's [[derivative notation]], this is written as:
-$$\frac{d}{dx}h(x) = \left.\frac{d}{dz}f(z)\right|_{z=g(x)}\cdot \frac{d}{dx}g(x)$$
-often abridged to
-$$\frac{dh(x)}{dx} = \frac{df(g(x))}{dg(x)} \cdot \frac{dg(x)}{dx}$$
 #### inverse function rule
 If the function $f$ has an [[inverse function]] {{Mvar|g}}, meaning that $g(f(x)) = x$ and $f(g(y)) = y,$ then
 $g = \frac{1}{f\circ g}.$
