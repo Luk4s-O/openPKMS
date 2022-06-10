@@ -2,7 +2,7 @@
 aliases: [leibniz notation, leibniz's notation, Leibniz notation, Leibniz's notation]
 ---
 # Leibniz
-the original notation employed by [[Gottfried Leibniz]] is used throughout mathematics. It is particularly common when the equation $y = f(x)$ is regarded as a functional relationship between $y$ and $x$ Leibniz's notation makes this relationship explicit by writing the derivative as $\frac{dy}{dx}\text{ or }\frac{d}{dx}y\text{ or }\frac{df}{dx}(x)\text{ or }\frac{d f(x)}{dx}\text{ or }\frac{d}{dx} f(x).$
+the original [[derivative]] notation employed by [[Gottfried Leibniz]] is used throughout mathematics. It is particularly common when the equation $y = f(x)$ is regarded as a functional relationship between $y$ and $x$ Leibniz's notation makes this relationship explicit by writing the derivative as $\frac{dy}{dx}\text{ or }\frac{d}{dx}y\text{ or }\frac{df}{dx}(x)\text{ or }\frac{d f(x)}{dx}\text{ or }\frac{d}{dx} f(x).$
 
 Higher derivatives are written as:
 $$\frac{d^2y}{dx^2}$$

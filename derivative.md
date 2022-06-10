@@ -11,7 +11,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[chain rule|chain rule]]
 - [[inverse function rule]]
 - [[power rule]]
-#### reciprocal rule
+- [[reciprocal rule]]
 The derivative of $$h(x)=\frac{1}{f(x)}$$for any (nonvanishing) function $f$ is:
 
 $$h(x) = -\frac{f(x)}{(f(x))^2}$$wherever $f$ is non-zero.
