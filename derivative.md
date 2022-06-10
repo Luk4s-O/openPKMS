@@ -13,6 +13,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[power rule]]
 - [[reciprocal rule]]
 - [[quotient rule]]
+---
 ### Derivatives of trigonometric functions
 - [[derivative of sine and cosine]]
 - 

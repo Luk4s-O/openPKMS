@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative of sine and cosine.md",
+            "file": "derivative.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative of sine and cosine.md",
+                "file": "derivative.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
-    "derivative of sine and cosine.md",
     "derivative.md",
+    "derivative of sine and cosine.md",
     "generalized power rule.md",
     "calculus.md",
     "bijection.md",
