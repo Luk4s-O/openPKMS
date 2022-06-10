@@ -12,12 +12,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[inverse function rule]]
 - [[power rule]]
 - [[reciprocal rule]]
-
-#### The quotient rule
-If $f$ and $g$ are functions, then:
-$$\left(\frac{f}{g}\right) = \frac{fg - gf}{g^2}$$ wherever $g$ is nonzero.
-This can be derived from the product rule and the reciprocal rule.
-
+- [[quotient rule]]
 #### Generalized power rule
 
 {{main|Power rule}}
