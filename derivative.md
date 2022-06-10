@@ -28,64 +28,6 @@ The [[logarithmic derivative]] is another way of stating the rule for differenti
 
 Logarithms can be used to remove exponents, convert products into sums, and convert division into subtraction — each of which may lead to a simplified expression for taking derivatives.
 
-{| style="width:100%; background:transparent; margin-left:2em;"
-|width=50%|$ (\sin x) = \cos x = \frac{e^{ix} +
- e^{-ix}}{2} $
-|width=50%|$ (\arcsin x) = { 1 \over \sqrt{1 - x^2}} $
-|-
-|$ (\cos x) = -\sin x = \frac{e^{-ix} -
- e^{ix}}{2i} $
-|$ (\arccos x) = -{1 \over \sqrt{1 - x^2}} $
-|-
-|$ (\tan x) = \sec^2 x = { 1 \over \cos^2 x} = 1 + \tan^2 x $
-|$ (\arctan x) = { 1 \over 1 + x^2} $
-|-
-|$ (\cot x) = -\csc^2 x = -{ 1 \over \sin^2 x} = -1 - \cot^2 x$
-|$ (\operatorname{arccot} x) = {1 \over -1 - x^2} $
-|-
-|$ (\sec x) = \sec{x}\tan{x} $
-|$ (\operatorname{arcsec} x) = { 1 \over |x|\sqrt{x^2 - 1}} $
-|-
-|$ (\csc x) = -\csc{x}\cot{x} $
-|$ (\operatorname{arccsc} x) = -{1 \over |x|\sqrt{x^2 - 1}} $
-|}
-The derivatives in the table above is for when the range of the inverse secant is $[0,\pi]\!$ and when the range of the inverse cosecant is $\left[-\frac{\pi}{2},\frac{\pi}{2}\right]\!$.
-
-It is common to additionally define an [[Atan2|inverse tangent function with two arguments]], $\arctan(y,x)\!$.  Its value lies in the range $[-\pi,\pi]\!$ and reflects the quadrant of the point $(x,y)\!$.  For the first and fourth quadrant (i.e. $x > 0\!$) one has $\arctan(y, x>0) = \arctan(y/x)\!$.  Its partial derivatives are
-{| style="width:100%; background:transparent; margin-left:2em;"
-| width="100%" |$ \frac{\partial \arctan(y,x)}{\partial y} = \frac{x}{x^2 + y^2}$, and $ \frac{\partial \arctan(y,x)}{\partial x} = \frac{-y}{x^2 + y^2}.$
-|}
-
-==Derivatives of hyperbolic functions==
-{| style="width:100%; background:transparent; margin-left:2em;"
-|width=50%|$( \sinh x )= \cosh x = \frac{e^x +
- e^{-x}}{2}$
-| width="50%" |$(\operatorname{arsinh}x) = { 1 \over \sqrt{1 + x^2}}$
-|-
-|$(\cosh x )= \sinh x = \frac{e^x - e^{-x}}{2}$
-|$(\operatorname{arcosh}x) = {\frac {1}{\sqrt{x^2-1}}}$
-|-
-|$(\tanh x )= {\operatorname{sech}^2x} = { 1 \over \cosh^2 x} = 1 - \tanh^2 x$
-|$(\operatorname{artanh}x) = { 1 \over 1 - x^2}$
-|-
-|$(\coth x ) = -\operatorname{csch}^2x = -{ 1 \over \sinh^2 x} = 1 - \coth^2 x$
-|$(\operatorname{arcoth}x) = { 1 \over 1 - x^2}$
-|-
-|$(\operatorname{sech} x) = -\operatorname{sech}{x}\tanh{x}$
-|$(\operatorname{arsech}x) = -{1 \over x\sqrt{1 - x^2}}$
-|-
-|$(\operatorname{csch}x) = -\operatorname{csch}{x}\coth{x}$
-|$(\operatorname{arcsch}x) = -{1 \over |x|\sqrt{1 + x^2}}$
-|}
-See [[Hyperbolic functions#Derivatives|Hyperbolic functions]] for restrictions on these derivatives.
-
-==Derivatives of special functions==
-;[[Gamma function]] $\quad \Gamma(x) = \int_0^\infty t^{x-1} e^{-t}\, dt$
-:$\begin{align}
-\Gamma(x) & = \int_0^\infty t^{x-1} e^{-t} \ln t\,dt \\
-& = \Gamma(x) \left(\sum_{n=1}^\infty \left(\ln\left(1 + \dfrac{1}{n}\right) - \dfrac{1}{x + n}\right) - \dfrac{1}{x}\right) \\
-& = \Gamma(x) \psi(x)
-\end{align}$ {{pb}} with $\psi(x)$ being the [[digamma function]], expressed by the parenthesized expression to the right of $\Gamma(x)$ in the line above.
 ;[[Riemann Zeta function]]$\quad\zeta(x) =\sum_{n=1}^\infty\frac{1}{n^x}$
 :$\begin{align}\zeta(x) & = -\sum_{n=1}^\infty \frac{\ln n}{n^x}
 =-\frac{\ln 2}{2^x} - \frac{\ln 3}{3^x} - \frac{\ln 4}{4^x} - \cdots \\
