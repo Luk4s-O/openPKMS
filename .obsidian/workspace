@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "differential equations.md",
+            "file": "Leibniz derivative notation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "differential equations.md",
+                "file": "Leibniz derivative notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
-    "differential equations.md",
-    "Leibniz's notation for antidifferentiation.md",
-    "derivative.md",
     "Leibniz derivative notation.md",
     "constant term rule.md",
-    "chain rule.md",
+    "differential equations.md",
+    "power rule.md",
+    "derivative.md",
     "difference between codomain and range.md",
+    "Leibniz's notation for antidifferentiation.md",
+    "chain rule.md",
     "ISO/IEC 80000.md",
-    "calculus.md",
-    "polynomial.md"
+    "calculus.md"
   ]
 }
