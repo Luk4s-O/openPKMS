@@ -13,6 +13,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[power rule]]
 - [[reciprocal rule]]
 - [[quotient rule]]
+
 #### Generalized power rule
 
 {{main|Power rule}}
