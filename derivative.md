@@ -3,7 +3,7 @@ aliases: [differentiation, differentiate, derivatives]
 ---
 # a derivative of a function gives us another function which determines the slope of the orignal function
 ## Differentiation is linear
-For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative of the function $h(x) = af(x) + bg(x)$ with respect to $x$ is: $h(x) = a f(x) + b g(x)$
+For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative of the function $h(x) = af(x) + bg(x)$ with respect to $x$ is: $h'(x) = a f'(x) + b g'(x)$
 ## derivatives have individual rules...
 ### Elementary rules of differentiation
 - [[constant term rule|constant term rule]]
@@ -14,6 +14,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[reciprocal rule]]
 - [[quotient rule]]
 ---
+Other rules of differentiation
 #### Generalized power rule
 
 {{main|Power rule}}
