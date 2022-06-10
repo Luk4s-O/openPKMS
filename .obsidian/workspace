@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative.md",
+            "file": "derivative of sine and cosine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative.md",
+                "file": "derivative of sine and cosine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "derivative of sine and cosine.md",
     "derivative.md",
     "generalized power rule.md",
     "calculus.md",
@@ -97,7 +98,6 @@
     "constant term rule.md",
     "reciprocal rule.md",
     "Leibniz derivative notation.md",
-    "differential equations.md",
-    "power rule.md"
+    "differential equations.md"
   ]
 }
