@@ -13,6 +13,8 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[power rule]]
 - [[reciprocal rule]]
 - [[quotient rule]]
+### Derivatives of trigonometric functions
+
 ---
 ### Other rules of differentiation
 - [[generalized power rule]]
@@ -25,10 +27,6 @@ The [[logarithmic derivative]] is another way of stating the rule for differenti
 [[Logarithmic differentiation]] is a technique which uses logarithms and its differentiation rules to simplify certain expressions before actually applying the derivative.{{cn|date=October 2021}}
 
 Logarithms can be used to remove exponents, convert products into sums, and convert division into subtraction — each of which may lead to a simplified expression for taking derivatives.
-
-
-== Derivatives of trigonometric functions ==
-{{main|Differentiation of trigonometric functions}}
 
 {| style="width:100%; background:transparent; margin-left:2em;"
 |width=50%|$ (\sin x) = \cos x = \frac{e^{ix} +
