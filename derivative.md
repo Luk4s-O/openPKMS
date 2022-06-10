@@ -16,28 +16,6 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 ---
 ### Other rules of differentiation
 - [[generalized power rule]]
- Derivatives of exponential and logarithmic functions
-
-$$\frac{d}{dx}\left(c^{ax}\right) = {ac^{ax} \ln c } ,\qquad c > 0$$
-the equation above is true for all {{Mvar|c}}, but the derivative for $c<0$ yields a complex number.
-
-$\frac{d}{dx}\left(e^{ax}\right) = ae^{ax}$
-
-:$ \frac{d}{dx}\left( \log_c x\right) = {1 \over x \ln c} , \qquad c > 1$
-
-the equation above is also true for all {{Mvar|c}}, but yields a complex number if $c<0\!$.
-
-:$ \frac{d}{dx}\left( \ln x\right)  = {1 \over x} ,\qquad x > 0.$
-
-:$ \frac{d}{dx}\left( \ln |x|\right) = {1 \over x} ,\qquad x \neq 0.$
-
-:$ \frac{d}{dx}\left( W(x)\right) = {1 \over {x+e^{W(x)}}} ,\qquad x > -{1 \over e}.\qquad$where $W(x)$ is the [[Lambert W function]]
-
-:$ \frac{d}{dx}\left( x^x \right) = x^x(1+\ln x).$
-
-:$ \frac{d}{dx}\left( f(x)^{ g(x) } \right ) = g(x)f(x)^{g(x)-1} \frac{df}{dx} + f(x)^{g(x)}\ln{( f(x) )}\frac{dg}{dx}, \qquad \text{if }f(x) > 0, \text{ and if } \frac{df}{dx} \text{ and } \frac{dg}{dx} \text{ exist.}$
-
-:$ \frac{d}{dx}\left( f_{1}(x)^{f_{2}(x)^{\left ( ... \right )^{f_{n}(x)}}} \right ) = \left [\sum\limits_{k=1}^{n} \frac{\partial }{\partial x_{k}} \left( f_{1}(x_1)^{f_{2}(x_2)^{\left ( ... \right )^{f_{n}(x_n)}}} \right ) \right ] \biggr\vert_{x_1 = x_2 = ... =x_n = x}, \text{ if } f_{i<n}(x) > 0 \text{ and }$ $ \frac{df_{i}}{dx} \text{ exists. }$
 
 ===Logarithmic derivatives===
 
