@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative.md",
+            "file": "reciprocal rule.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative.md",
+                "file": "reciprocal rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "reciprocal rule.md",
     "derivative.md",
     "Leibniz derivative notation.md",
     "constant term rule.md",
@@ -97,7 +98,6 @@
     "difference between codomain and range.md",
     "Leibniz's notation for antidifferentiation.md",
     "chain rule.md",
-    "ISO/IEC 80000.md",
-    "calculus.md"
+    "ISO/IEC 80000.md"
   ]
 }
