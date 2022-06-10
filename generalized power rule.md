@@ -3,5 +3,5 @@ $$(f^g) = \left(e^{g\ln f}\right) = f^g\left(f{g \over f} + g\ln f\right)\quad$$
 wherever both sides are well defined.
 
 Special cases
-* If $f(x)=x^a$, then $f(x)=ax^{a-1}$ when $a$ is any non-zero real number and $x$ is positive. This is known as 
+* If $f(x)=x^a$, then $f(x)=ax^{a-1}$ when $a$ is any non-zero real number and $x$ is positive. This is known as the common [[power rule]].
 * The reciprocal rule may be derived as the special case where $g(x)=-1!$.
