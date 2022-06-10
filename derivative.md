@@ -1,7 +1,7 @@
 ---
 aliases: [differentiation, differentiate, derivatives]
 ---
-# gives us the slope of a function
+# a derivative of a function gives us another function which determines the slope of the orignal function
 ## Differentiation is linear
 For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative of the function $h(x) = af(x) + bg(x)$ with respect to $x$ is: $h(x) = a f(x) + b g(x)$
 ## derivatives have individual rules...
@@ -13,7 +13,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 - [[power rule]]
 - [[reciprocal rule]]
 - [[quotient rule]]
-
+---
 #### Generalized power rule
 
 {{main|Power rule}}
