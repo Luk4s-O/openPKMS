@@ -7,8 +7,12 @@
         "id": "06ae70278319a031",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "Untitled.md",
     "derivative.md",
     "derivative of sine and cosine.md",
     "generalized power rule.md",
@@ -92,7 +98,6 @@
     "quotient rule.md",
     "constant term rule.md",
     "reciprocal rule.md",
-    "Leibniz derivative notation.md",
-    "differential equations.md"
+    "Leibniz derivative notation.md"
   ]
 }
