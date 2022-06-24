@@ -3,4 +3,4 @@
 1 min. = 60 sec. - measure of angle
 1 knot = 1 Nm/hour - measure of speed
 
-To find a 
+Due to the scaling of the projection, the horizontal scale is different than the vertical one - use the 
