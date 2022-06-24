@@ -1,1 +1,1 @@
-The holder of t
+The holder of the certificate has comptenecy to operate boats with passangers up to 3 nautical miles from the coasts and islands in the adriatic sea
