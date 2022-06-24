@@ -8,3 +8,4 @@ Due to the scaling of the projection, the horizontal scale is different than the
 Every Nm is also a minute on the y-axis - 1 cable = 6 seconds
 
 Longitude - horizontal position
+Latidue - vertical position
