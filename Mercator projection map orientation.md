@@ -6,3 +6,5 @@
 Due to the scaling of the projection, the horizontal scale is different than the vertical one - use the y axis to determine a distance in Nm after measuring a distance with a compass. One large piece on the map is 1 Nm.
 
 Every Nm is also a minute on the y-axis - 1 cable = 6 seconds
+
+Longitude - horizontal position
