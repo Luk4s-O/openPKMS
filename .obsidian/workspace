@@ -19,8 +19,12 @@
         "id": "80c01f944eeaa1e4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "frequency modulation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "freq",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "frequency modulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
