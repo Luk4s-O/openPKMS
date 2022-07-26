@@ -1,0 +1,1 @@
+stands for radio detection and ranging. 
