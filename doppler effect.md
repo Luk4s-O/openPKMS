@@ -1,1 +1,1 @@
-a naturally caused form of [[frequency modulation]] ca
+a naturally caused form of [[frequency modulation]] caused either by an object in motion producing waves or a wave bouncing off an object.
