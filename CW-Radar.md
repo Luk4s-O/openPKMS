@@ -1,1 +1,1 @@
-contino
+Continuous Wave [[Radar]] (CW radar) sets transmit a high-frequency signal continuously. The echo signal is received and processed permanently.
