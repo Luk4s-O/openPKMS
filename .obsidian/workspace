@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06ae70278319a031",
+        "id": "dc49983ab087b0a8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "frequency modulation.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "80c01f944eeaa1e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "frequency modulation.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frequency modulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,12 +82,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80c01f944eeaa1e4",
+  "active": "d91deec9993c1e4b",
   "lastOpenFiles": [
+    "frequency modulation.md",
     "amplitude.md",
     "wave amplitude.md",
     "amplitude modulation.md",
-    "frequency modulation.md",
     "derivative.md",
     "chain rule.md",
     "christianity.md",
