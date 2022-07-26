@@ -1,0 +1,4 @@
+---
+aliases: [amplitude]
+---
+the range 
