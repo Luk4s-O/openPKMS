@@ -1,1 +1,1 @@
-stands for radio detection and ranging. by bouncing off of an object, a radar can detect travel time 
+stands for radio detection and ranging. by bouncing off of an object, a radar can detect travel time of the emitted wave (from and to the source), determining the distance, thus detecting and mapping out 
