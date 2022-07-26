@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "radar.md",
+            "file": "FMCW radar.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doppler effect.md",
+                "file": "FMCW radar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6ebd9fd9f497faf",
+  "active": "dc49983ab087b0a8",
   "lastOpenFiles": [
     "radar.md",
+    "doppler effect.md",
     "frequency modulation.md",
     "amplitude.md",
     "wave amplitude.md",
@@ -109,7 +110,6 @@
     "derivative.md",
     "chain rule.md",
     "christianity.md",
-    "Mercator projection map orientation.md",
-    "Croatian boatskipper license.md"
+    "Mercator projection map orientation.md"
   ]
 }
