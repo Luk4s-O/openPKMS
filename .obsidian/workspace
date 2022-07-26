@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "derivative.md",
+            "file": "frequency modulation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leibniz",
+                "query": "freq",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "derivative.md",
+                "file": "frequency modulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +88,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d91deec9993c1e4b",
+  "active": "06ae70278319a031",
   "lastOpenFiles": [
+    "derivative.md",
     "frequency modulation.md",
     "chain rule.md",
     "christianity.md",
     "Mercator projection map orientation.md",
     "Croatian boatskipper license.md",
-    "derivative.md",
     "derivative of sine and cosine.md",
     "generalized power rule.md",
     "calculus.md",
