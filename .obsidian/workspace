@@ -26,18 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "c3478ccd353d0bed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "amplitude.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
