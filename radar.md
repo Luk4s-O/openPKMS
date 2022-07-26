@@ -1,1 +1,1 @@
-stands for radio detection and ranging. 
+stands for radio detection and ranging. by bouncing off of an object, a radar can detect travel time 
