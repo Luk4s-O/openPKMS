@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "frequency modulation.md",
+            "file": "derivative.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frequency modulation.md",
+                "file": "derivative.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06ae70278319a031",
+  "active": "d91deec9993c1e4b",
   "lastOpenFiles": [
+    "frequency modulation.md",
     "chain rule.md",
     "christianity.md",
-    "frequency modulation.md",
     "Mercator projection map orientation.md",
     "Croatian boatskipper license.md",
     "derivative.md",

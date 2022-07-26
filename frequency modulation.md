@@ -1,1 +1,1 @@
-the shift of a wave signal frequency in order to transmit information
+the shift of a wave signal frequency in order to transmit information. analogous to [[amplitude modulation]].
