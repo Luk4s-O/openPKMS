@@ -7,12 +7,8 @@
         "id": "b1647380f736309a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "radar.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "radar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
+    "radar.md",
     "CW radar.md",
     "hyperfine transition frequency of Cs.md",
     "SI defining constants.md",
@@ -96,7 +92,6 @@
     "hertz.md",
     "frequency.md",
     "FMCW radar.md",
-    "radar.md",
     "doppler effect.md",
     "frequency modulation.md"
   ]
