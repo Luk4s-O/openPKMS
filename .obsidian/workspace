@@ -7,8 +7,12 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "coil.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,7 @@
     "resistance.md",
     "variable resistor.md",
     "varistor.md",
-    "Untitled.md",
+    "coil.md",
     "diodes.md",
     "circuit.md",
     "calculus.md",

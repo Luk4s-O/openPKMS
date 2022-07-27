@@ -1,0 +1,1 @@
+a coil is an electronic component
