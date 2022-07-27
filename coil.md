@@ -1,1 +1,1 @@
-a coil is an electronic component
+a coil is an [[electronic component]]
