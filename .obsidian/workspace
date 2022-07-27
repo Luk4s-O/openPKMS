@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EMC.md",
+            "file": "EMI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EMC.md",
+                "file": "EMI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "56a5442df8f74eae",
   "lastOpenFiles": [
+    "EMC.md",
     "science.md",
     "mathematics.md",
     "calculus.md",
@@ -97,7 +98,6 @@
     "CW radar.md",
     "hyperfine transition frequency of Cs.md",
     "SI defining constants.md",
-    "SI.md",
-    "hertz.md"
+    "SI.md"
   ]
 }
