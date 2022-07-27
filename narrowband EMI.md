@@ -1,0 +1,1 @@
+[[EMI]] caused by intentional sources of [[radiation]], such as telephone, 

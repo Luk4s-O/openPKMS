@@ -1,1 +1,1 @@
-[[EMI]] caused by unintentional sources of [[radiation]], such as [[nature]] or power lines
+[[EMI]] caused by unintentional sources of [[radiation]], such as [[nature]] or power lines.

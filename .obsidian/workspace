@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "broadband EMI.md",
+            "file": "narrowband EMI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "broadband EMI.md",
+                "file": "narrowband EMI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,14 @@
   "active": "56a5442df8f74eae",
   "lastOpenFiles": [
     "EMI.md",
+    "broadband EMI.md",
+    "narrowband EMI.md",
     "integral.md",
     "calculus.md",
     "EMC.md",
     "science.md",
     "mathematics.md",
     "trigonometry.md",
-    "radar.md",
-    "CW radar.md",
-    "hyperfine transition frequency of Cs.md"
+    "radar.md"
   ]
 }
