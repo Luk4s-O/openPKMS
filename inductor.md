@@ -1,0 +1,1 @@
+an inductor is an
