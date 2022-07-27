@@ -4,7 +4,7 @@ there are 7 base units, from which further units are derived.
 
 | Symbol | Name     | Quantity                  |
 |--------|----------|---------------------------|
-| s      | [[second]]   | [time]                      |
+| s      | [[second]]   | [[time]]                      |
 | m      | [[meter]]    | [[length]]                    |
 | kg     | [[kilogram]] | [[mass]]                      |
 | A      | [[ampere]]   | [[electric current]]          |
