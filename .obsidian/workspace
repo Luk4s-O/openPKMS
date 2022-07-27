@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "frequency.md",
+            "file": "SI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frequency.md",
+                "file": "SI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
+    "hertz.md",
+    "frequency.md",
     "FMCW radar.md",
     "CW radar.md",
     "radar.md",
@@ -96,8 +98,6 @@
     "frequency modulation.md",
     "amplitude.md",
     "wave amplitude.md",
-    "amplitude modulation.md",
-    "derivative.md",
-    "chain rule.md"
+    "amplitude modulation.md"
   ]
 }
