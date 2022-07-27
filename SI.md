@@ -1,1 +1,1 @@
-a modern form of the metric system of units, established by the 
+a modern form of the metric system of units, 
