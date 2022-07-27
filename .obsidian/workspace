@@ -7,12 +7,8 @@
         "id": "56a5442df8f74eae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ampere.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ampere.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "56a5442df8f74eae",
   "lastOpenFiles": [
+    "ampere.md",
     "electric current.md",
     "circuit.md",
     "coupling.md",
@@ -97,7 +93,6 @@
     "narrowband EMI.md",
     "EMI.md",
     "broadband EMI.md",
-    "integral.md",
-    "calculus.md"
+    "integral.md"
   ]
 }
