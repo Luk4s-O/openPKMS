@@ -1,1 +1,1 @@
-a modern form of the metric system of units, 
+a modern form of the metric system of units, a coherent system of units.
