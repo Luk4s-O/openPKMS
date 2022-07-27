@@ -7,8 +7,12 @@
         "id": "b1647380f736309a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "trigonometry.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "trigonometry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
