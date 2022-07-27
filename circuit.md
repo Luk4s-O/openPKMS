@@ -1,1 +1,1 @@
-an electronic circuit is composed of individual electronic components, such as [[resistor]], [[transistors], [[capacitor]], [[inductor]] and [[diode]], connected by conductive wires or traces through which [[electric current]] can flow.
+an electronic circuit is composed of individual electronic components, such as the [[resistor]], [[transistors]], [[capacitor]], [[inductor]] and [[diode]], connected by conductive wires or traces through which [[electric current]] can flow.
