@@ -1,0 +1,1 @@
+A device similar to the [[resistors]]
