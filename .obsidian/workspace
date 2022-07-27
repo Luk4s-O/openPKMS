@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b1647380f736309a",
+        "id": "56a5442df8f74eae",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1647380f736309a",
+  "active": "56a5442df8f74eae",
   "lastOpenFiles": [
     "science.md",
     "mathematics.md",
