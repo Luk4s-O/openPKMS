@@ -1,0 +1,1 @@
+Mathematics is the [[science]] that deals with the logic of shape, quantity and arrangement.
