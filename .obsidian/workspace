@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "calculus.md",
+            "file": "mathematics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calculus.md",
+                "file": "mathematics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
+    "calculus.md",
     "trigonometry.md",
     "radar.md",
     "CW radar.md",
@@ -97,7 +98,6 @@
     "SI.md",
     "hertz.md",
     "frequency.md",
-    "FMCW radar.md",
-    "doppler effect.md"
+    "FMCW radar.md"
   ]
 }
