@@ -11,3 +11,5 @@ there are 7 base units, from which further units are derived.
 | K      | kelvin   | thermodynamic temperature |
 | mol    | mole     | amount of substance       |
 | cd     | candela  | luminous intensity        |
+
+these units are derived from the [[SI defining constants]].
