@@ -7,12 +7,8 @@
         "id": "b1647380f736309a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "science.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
+    "science.md",
     "mathematics.md",
     "calculus.md",
     "trigonometry.md",
@@ -97,7 +93,6 @@
     "hyperfine transition frequency of Cs.md",
     "SI defining constants.md",
     "SI.md",
-    "hertz.md",
-    "frequency.md"
+    "hertz.md"
   ]
 }
