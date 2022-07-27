@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "narrowband EMI.md",
+            "file": "EMC.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "narrowband EMI.md",
+                "file": "EMC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "56a5442df8f74eae",
   "lastOpenFiles": [
+    "narrowband EMI.md",
     "EMI.md",
     "broadband EMI.md",
-    "narrowband EMI.md",
     "integral.md",
     "calculus.md",
     "EMC.md",
