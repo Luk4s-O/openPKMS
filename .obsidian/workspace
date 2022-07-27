@@ -7,8 +7,12 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "varistor.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circu",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "varistor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,10 +90,10 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "circuit.md",
-    "diodes.md",
-    "calculus.md",
     "Untitled.md",
+    "diodes.md",
+    "circuit.md",
+    "calculus.md",
     "varistor.md",
     "SI.md",
     "ampere.md",
