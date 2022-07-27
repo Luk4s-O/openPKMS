@@ -1,1 +1,1 @@
-a branch
+a branch of mathematics studying the relationship between side lenghts and angles of [[triangles]].
