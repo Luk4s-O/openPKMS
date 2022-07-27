@@ -1,1 +1,1 @@
-A device similar to the [[resistor]], a varistor is an electronic component with an electrical [[resistance]] that varies with the applied [[voltage]].
+A [[variable resistor]], a varistor is an electronic component with an electrical [[resistance]] that varies with the applied [[voltage]].

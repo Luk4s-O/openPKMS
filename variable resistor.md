@@ -1,0 +1,1 @@
+any [[resistor]] with a non-constant [[resistance]].

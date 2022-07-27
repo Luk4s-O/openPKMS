@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "varistor.md",
+            "file": "resistance.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "varistor.md",
+                "file": "resistance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "variable resistor.md",
+    "varistor.md",
     "Untitled.md",
     "diodes.md",
     "circuit.md",
     "calculus.md",
-    "varistor.md",
     "SI.md",
     "ampere.md",
     "electric current.md",
-    "coupling.md",
-    "mercator projection map orientation.md"
+    "coupling.md"
   ]
 }
