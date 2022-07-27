@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FMCW radar.md",
+            "file": "frequency.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FMCW radar.md",
+                "file": "frequency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
-    "CW radar.md",
     "FMCW radar.md",
+    "CW radar.md",
     "radar.md",
     "doppler effect.md",
     "frequency modulation.md",
