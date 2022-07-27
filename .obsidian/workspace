@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SI defining constants.md",
+            "file": "hyperfine transition frequency of Cs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI defining constants.md",
+                "file": "hyperfine transition frequency of Cs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
+    "SI defining constants.md",
     "SI.md",
     "hertz.md",
     "frequency.md",
@@ -97,7 +98,6 @@
     "radar.md",
     "doppler effect.md",
     "frequency modulation.md",
-    "amplitude.md",
-    "wave amplitude.md"
+    "amplitude.md"
   ]
 }
