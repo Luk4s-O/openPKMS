@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trigonometry.md",
+            "file": "calculus.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trigonometry.md",
+                "file": "calculus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "b1647380f736309a",
   "lastOpenFiles": [
+    "trigonometry.md",
     "radar.md",
     "CW radar.md",
     "hyperfine transition frequency of Cs.md",
@@ -97,7 +98,6 @@
     "hertz.md",
     "frequency.md",
     "FMCW radar.md",
-    "doppler effect.md",
-    "frequency modulation.md"
+    "doppler effect.md"
   ]
 }
