@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "circuit.md",
+            "file": "electric current.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "circuit.md",
+                "file": "electric current.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "56a5442df8f74eae",
   "lastOpenFiles": [
-    "coupling.md",
     "circuit.md",
+    "coupling.md",
     "mercator projection map orientation.md",
     "EMC.md",
     "narrowband EMI.md",
