@@ -1,1 +1,1 @@
-The [[SI]]
+The base [[SI]] unit of electric [[electric current|current]]. It is defined as 
