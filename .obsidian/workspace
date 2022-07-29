@@ -7,8 +7,12 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "serial communication.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "serial communication.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,7 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "serial communication.md",
     "inductor.md",
     "resistance.md",
     "variable resistor.md",
