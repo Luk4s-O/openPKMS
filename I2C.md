@@ -1,1 +1,1 @@
-I2C (inter-integrate)
+I2C (inter-integrated circuit) is a  [[serial communication]][[bus]].
