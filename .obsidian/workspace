@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "circuit.md",
+            "file": "bus.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resistance",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "circuit.md",
+                "file": "bus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "electronic component.md",
+    "varistor.md",
     "bus.md",
+    "circuit.md",
     "serial communication.md",
     "inductor.md",
     "resistance.md",
     "variable resistor.md",
-    "varistor.md",
     "diodes.md",
-    "circuit.md",
-    "calculus.md",
-    "SI.md"
+    "calculus.md"
   ]
 }
