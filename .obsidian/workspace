@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bus.md",
+            "file": "I2C.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bus.md",
+                "file": "I2C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "bus.md",
     "electronic component.md",
     "varistor.md",
-    "bus.md",
     "circuit.md",
     "serial communication.md",
     "inductor.md",
