@@ -1,1 +1,1 @@
-in the context of data transimission, serial communication is the process of sending data one bit at a time. this is in contrast to parallel communication. the 
+in the context of data transimission, serial communication is the process of sending data one bit at a time. this is in contrast to [[parallel communication]]. the carrier of this data is called a [[bus]].
