@@ -1,0 +1,1 @@
+in the context of data transimission, serial communication is the process of sending data one b
