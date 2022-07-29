@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bus.md",
+            "file": "circuit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bus.md",
+                "file": "circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "bus.md",
     "serial communication.md",
     "inductor.md",
     "resistance.md",
@@ -97,7 +98,6 @@
     "diodes.md",
     "circuit.md",
     "calculus.md",
-    "SI.md",
-    "ampere.md"
+    "SI.md"
   ]
 }
