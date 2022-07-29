@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I2C.md",
+            "file": "integrated circuit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I2C.md",
+                "file": "integrated circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "I2C.md",
+    "circuit.md",
+    "integrated circuit.md",
     "bus.md",
     "electronic component.md",
     "varistor.md",
-    "circuit.md",
     "serial communication.md",
     "inductor.md",
     "resistance.md",
-    "variable resistor.md",
-    "diodes.md",
-    "calculus.md"
+    "variable resistor.md"
   ]
 }
