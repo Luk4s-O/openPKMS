@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "integrated circuit.md",
+            "file": "temperature gradient.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integrated circuit.md",
+                "file": "temperature gradient.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "integrated circuit.md",
     "I2C.md",
     "circuit.md",
-    "integrated circuit.md",
     "bus.md",
     "electronic component.md",
     "varistor.md",
