@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "temperature gradient.md",
+            "file": "temperature.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temperature gradient.md",
+                "file": "temperature.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "kelvin.md",
+    "temperature gradient.md",
     "integrated circuit.md",
     "I2C.md",
     "circuit.md",
@@ -96,8 +98,6 @@
     "electronic component.md",
     "varistor.md",
     "serial communication.md",
-    "inductor.md",
-    "resistance.md",
-    "variable resistor.md"
+    "inductor.md"
   ]
 }
