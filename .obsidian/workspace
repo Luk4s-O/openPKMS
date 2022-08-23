@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SIM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,8 +88,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cf3d7d8c50df86e",
+  "active": "ba552c9f355ffa63",
   "lastOpenFiles": [
+    "SIM.md",
+    "GSM.md",
     "Subscriber Identity Module.md",
     "temperature.md",
     "kelvin.md",
@@ -96,8 +99,6 @@
     "integrated circuit.md",
     "I2C.md",
     "circuit.md",
-    "bus.md",
-    "electronic component.md",
-    "varistor.md"
+    "bus.md"
   ]
 }
