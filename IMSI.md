@@ -1,0 +1,1 @@
+A [[Subscriber Identity Module|SIM]] contains a globally unique serial number (called an international mobile subscriber identity aka IMSI ) that your cell provider can match to your contract and then allow the appropriate level of service (i.e. voice, 3G data or 4G data or no data, texting or no texting…).
