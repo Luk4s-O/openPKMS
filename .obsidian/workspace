@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Subscriber Identity Module.md",
+            "file": "ampere.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subscriber Identity Module.md",
+                "file": "ampere.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "science.md",
+    "serial communication.md",
+    "Subscriber Identity Module.md",
+    "GSM.md",
     "integral.md",
     "broadband EMI.md",
     "bus.md",
     "dynamics.md",
     "derivative of sine and cosine.md",
-    "SIM.md",
-    "GSM.md",
-    "EMI.md",
-    "narrowband EMI.md",
-    "Subscriber Identity Module.md"
+    "SIM.md"
   ]
 }
