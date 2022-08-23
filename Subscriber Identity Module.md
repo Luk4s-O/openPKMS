@@ -7,4 +7,4 @@ SIM card is a small [[integrated circuit]] identifying the phone on the [[GSM]] 
 -   Micro-SIM (3FF) made improvements in length with measurements of 15 mm x 12 mm.
 -   Nano-SIM (4FF) is the most recent form (2012) and is 12.3 mm x 8.8 mm.
 -   Embedded SIM (eSIM) size: 6mm x 5mm
-SIMs are either programmable o
+SIMs are either programmable, or they are tied to an operator from the factory. The e-SIM is usually always programmable by default. The eSIM also differs in that it is a 
