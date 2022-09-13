@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IMSI.md",
+            "file": "eccentiricity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMSI.md",
+                "file": "eccentiricity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "Subscriber Identity Module.md",
-    "ampere.md",
-    "science.md",
-    "serial communication.md",
-    "GSM.md",
-    "integral.md",
-    "broadband EMI.md",
-    "bus.md",
     "dynamics.md",
-    "derivative of sine and cosine.md"
+    "differential equations.md",
+    "eccentiricity.md",
+    "difference between codomain and range.md",
+    "derivative of sine and cosine.md",
+    "constant term rule.md",
+    "circuit.md",
+    "IMSI.md",
+    "Subscriber Identity Module.md",
+    "ampere.md"
   ]
 }
