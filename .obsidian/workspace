@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "eccentiricity.md",
+            "file": "amplitude modulation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eccentiricity.md",
+                "file": "amplitude modulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "dynamics.md",
-    "differential equations.md",
-    "eccentiricity.md",
-    "difference between codomain and range.md",
-    "derivative of sine and cosine.md",
-    "constant term rule.md",
     "circuit.md",
-    "IMSI.md",
-    "Subscriber Identity Module.md",
-    "ampere.md"
+    "coupling.md",
+    "CW radar.md",
+    "derivative of sine and cosine.md",
+    "difference between codomain and range.md",
+    "EMI.md",
+    "frequency.md",
+    "function.md",
+    "hertz.md",
+    "hyperfine transition frequency of Cs.md"
   ]
 }
