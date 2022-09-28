@@ -1,1 +1,1 @@
-refers to the general hardness of water. 
+refers to the general hardness of water. it is a measure of dissolved calcium and magnesium ions.
