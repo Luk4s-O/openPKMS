@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "general hardness.md",
+            "file": "KH.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general hardness.md",
+                "file": "KH.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "GH.md",
     "water hardness.md",
+    "GH.md",
+    "general hardness.md",
     "README.md",
     "frequency.md",
     "fourier transform.md",
     "FMCW radar.md",
     "EMC.md",
     "generalized power rule.md",
-    "GSM.md",
-    "hyperfine transition frequency of Cs.md"
+    "GSM.md"
   ]
 }

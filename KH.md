@@ -1,0 +1,1 @@
+Carbonate hardness, or KH, is the concentration of carbonate and bicarbonate ions in water. This number signifies water’s ability to buffer against pH swings.
