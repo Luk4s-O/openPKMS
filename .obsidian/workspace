@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "amplitude modulation.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amplitude modulation.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "general hardness.md",
+    "amplitude modulation.md",
     "circuit.md",
     "coupling.md",
     "CW radar.md",
@@ -96,8 +98,6 @@
     "difference between codomain and range.md",
     "EMI.md",
     "frequency.md",
-    "function.md",
-    "hertz.md",
-    "hyperfine transition frequency of Cs.md"
+    "function.md"
   ]
 }
