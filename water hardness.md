@@ -1,0 +1,1 @@
+Water hardness is a measure of the concentration of dissolved calcium and magnesium in the water. It’s measured on a scale from 0 to 17 with higher numbers indicating more calcium and magnesium ions. There are two types of water hardness: [[KH]] and [[GH]].

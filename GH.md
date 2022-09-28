@@ -1,0 +1,1 @@
+refers to the general hardness of water. 
