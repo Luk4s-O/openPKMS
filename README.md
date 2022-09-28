@@ -6,4 +6,4 @@ openPKMS modus operandi ruleset:
 2. Titles and notes themselves are lowercase by default.
 3. No foldering.
 4. Minimize note length. Each idea is to have its own properly referenced note.
-5. openPKMS is strictly gi
+5. openPKMS is strictly git-based.
