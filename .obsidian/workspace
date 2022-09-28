@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "general hardness.md",
-    "amplitude modulation.md",
-    "circuit.md",
-    "coupling.md",
-    "CW radar.md",
-    "derivative of sine and cosine.md",
-    "difference between codomain and range.md",
-    "EMI.md",
     "frequency.md",
-    "function.md"
+    "fourier transform.md",
+    "FMCW radar.md",
+    "EMC.md",
+    "generalized power rule.md",
+    "GSM.md",
+    "hyperfine transition frequency of Cs.md",
+    "I2C.md",
+    "IMSI.md",
+    "Leibniz's notation for antidifferentiation.md"
   ]
 }
