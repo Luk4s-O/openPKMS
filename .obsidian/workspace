@@ -7,12 +7,8 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "electronic circuit.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circuit",
+                "query": "electrical",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electronic circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +83,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "analog circuit.md",
+    "amplitude modulation.md",
+    "ampere.md",
+    "alternating current.md",
+    "electrical circuit.md",
     "reactance.md",
     "impedance.md",
-    "alternating current.md",
-    "ampere.md",
-    "op-amp.md",
-    "Leibniz derivative notation.md",
-    "fourier transform.md",
-    "Croatian boatskipper license.md",
-    "SI.md"
+    "electric circuit.md",
+    "electronic circuit.md",
+    "analog circuit.md",
+    "op-amp.md"
   ]
 }
