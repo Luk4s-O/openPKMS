@@ -1,0 +1,1 @@
+In electrical engineering, impedance is the opposition to [[AC|alternating current]] presented by the combined effect of resistance and reactance in a circuit.
