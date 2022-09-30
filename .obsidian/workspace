@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "difference between analog and digital circuits.md",
+            "file": "EMI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "difference between analog and digital circuits.md",
+                "file": "EMI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "digital circuit.md",
+    "difference between analog and digital circuits.md",
     "electronic circuit.md",
     "integrated circuit.md",
     "Monolithic ICs.md",
@@ -95,8 +97,6 @@
     "analog circuit.md",
     "linear integrated circuit.md",
     "digital integrated circuit.md",
-    "digital circuit.md",
-    "electronic component.md",
-    "circuit.md"
+    "electronic component.md"
   ]
 }
