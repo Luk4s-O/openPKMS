@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electrical current",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,10 +88,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cf3d7d8c50df86e",
+  "active": "ba552c9f355ffa63",
   "lastOpenFiles": [
-    "electronic circuit.md",
     "circuit.md",
+    "electronic circuit.md",
     "digital circuit.md",
     "analog circuit.md",
     "electric circuit.md",
