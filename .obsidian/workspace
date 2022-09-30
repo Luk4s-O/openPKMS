@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opamp.md",
+            "file": "difference between analog and digital circuits.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opamp.md",
+                "file": "difference between analog and digital circuits.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
     "electronic circuit.md",
+    "integrated circuit.md",
+    "Monolithic ICs.md",
+    "opamp.md",
     "analog circuit.md",
     "linear integrated circuit.md",
-    "integrated circuit.md",
     "digital integrated circuit.md",
-    "Monolithic ICs.md",
     "digital circuit.md",
     "electronic component.md",
-    "circuit.md",
-    "coupling.md"
+    "circuit.md"
   ]
 }
