@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SI.md",
+            "file": "Leibniz derivative notation.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI.md",
+                "file": "Leibniz derivative notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "fourier transform.md",
+    "Croatian boatskipper license.md",
+    "SI.md",
     "ampere.md",
     "op-amp.md",
     "differential signalling.md",
     "differential io.md",
     "EMI.md",
     "differential i/o.md",
-    "relation.md",
-    "electric circuit.md",
-    "digital circuit.md",
-    "difference between analog and digital circuits.md"
+    "relation.md"
   ]
 }
