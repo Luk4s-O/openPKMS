@@ -7,8 +7,12 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "integrated circuit.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "integrated circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "motion.md",
     "Monolithic ICs.md",
+    "motion.md",
     "integrated circuit.md",
     "Thin and thick film ICs.md",
     "SIM.md",
