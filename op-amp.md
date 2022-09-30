@@ -1,5 +1,6 @@
-An operational amplifier or op-amp is simply a [[linear Integrated Circuit]] (IC) having multiple-terminals. It is a high-gain electronic voltage amplifier with a [[differential signalling|differential input]] and usually a single-ended output. Op-amps are among the most widely used electronic devices today as they are used in a vast array of consumer, industrial and scientific devices. Its basic role is to amplify and output the [[voltage]] difference between the two input pins - hence, it.
+An operational amplifier or op-amp is simply a [[linear Integrated Circuit]] (IC) having multiple-terminals. It is a high-gain electronic voltage amplifier with a [[differential signalling|differential input]] and usually a single-ended output. Op-amps are among the most widely used electronic devices today as they are used in a vast array of consumer, industrial and scientific devices. Its basic role is to amplify and output the [[voltage]] difference between the two input pins - hence, it is operating under the umbrella of [[differential signalling]].
 
+There are several parameters which need to be considered in op-amp application:
 -   **Input offset voltage:** It is the voltage that must be applied between the input terminals of an op-amp to nullify the output.
 -   **Input offset current:** It is the algebraic difference between the currents into the (-) input and (+) input.
 -   **Input bias current:** It is the average of the currents entering into the (-) input and (+) input terminals of an op-amp.
