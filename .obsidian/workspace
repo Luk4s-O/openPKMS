@@ -7,12 +7,8 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "integrated circuit.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integrated",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integrated circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +84,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "eccentiricity.md",
+    "electric current.md",
+    "electronic component.md",
+    "Thin and thick film ICs.md",
+    "integrated circuit.md",
     "amplitude modulation.md",
     "calculus.md",
     "IC.md",
-    "Thin and thick film ICs.md",
-    "integrated circuit.md",
     "I2C.md",
-    "MOSFET.md",
-    "Subscriber Identity Module.md",
-    "opamp.md",
-    "turbidity.md"
+    "MOSFET.md"
   ]
 }
