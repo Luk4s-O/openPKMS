@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "turbidity.md",
+            "file": "opamp.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "turbidity.md",
+                "file": "opamp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "turbidity.md",
     "nephelometer.md",
     "KH.md",
     "water hardness.md",
@@ -97,7 +98,6 @@
     "README.md",
     "frequency.md",
     "fourier transform.md",
-    "FMCW radar.md",
-    "EMC.md"
+    "FMCW radar.md"
   ]
 }
