@@ -1,0 +1,1 @@
+an acronym for a metal–oxide–semiconductor field-effect [[transistor]].

@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integrat",
+                "query": "IC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,15 +90,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "I2C.md",
+    "MOSFET.md",
+    "integrated circuit.md",
     "Subscriber Identity Module.md",
     "opamp.md",
     "turbidity.md",
     "nephelometer.md",
     "KH.md",
     "water hardness.md",
-    "GH.md",
-    "general hardness.md",
-    "README.md",
-    "frequency.md"
+    "GH.md"
   ]
 }
