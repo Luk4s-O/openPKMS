@@ -1,1 +1,1 @@
-an [[integrated circuit|IC]] which is also a [[digital circuit]]/
+an [[integrated circuit|IC]] which is also an [[analog circuit]]
