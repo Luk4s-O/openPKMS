@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leibniz derivative notation.md",
+            "file": "op-amp.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leibniz derivative notation.md",
+                "file": "op-amp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "Leibniz derivative notation.md",
     "fourier transform.md",
     "Croatian boatskipper license.md",
     "SI.md",
@@ -96,7 +97,6 @@
     "differential signalling.md",
     "differential io.md",
     "EMI.md",
-    "differential i/o.md",
-    "relation.md"
+    "differential i/o.md"
   ]
 }
