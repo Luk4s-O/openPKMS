@@ -1,0 +1,1 @@
+In [[electrical circuit]]s, reactance is the opposition presented to alternating current by inductance or capacitance.

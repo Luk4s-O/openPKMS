@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reactance.md",
+            "file": "electronic circuit.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AC",
+                "query": "circuit",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reactance.md",
+                "file": "electronic circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "analog circuit.md",
+    "reactance.md",
     "impedance.md",
     "alternating current.md",
     "ampere.md",
@@ -96,8 +98,6 @@
     "Leibniz derivative notation.md",
     "fourier transform.md",
     "Croatian boatskipper license.md",
-    "SI.md",
-    "differential signalling.md",
-    "differential io.md"
+    "SI.md"
   ]
 }
