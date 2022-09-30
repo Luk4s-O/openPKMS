@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "op-",
+                "query": "differential",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4cf3d7d8c50df86e",
+  "active": "ba552c9f355ffa63",
   "lastOpenFiles": [
     "differential signalling.md",
     "electric circuit.md",
