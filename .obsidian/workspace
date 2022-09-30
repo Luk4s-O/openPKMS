@@ -88,6 +88,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "electric circuit.md",
+    "EMI.md",
     "digital circuit.md",
     "difference between analog and digital circuits.md",
     "electronic circuit.md",
@@ -95,8 +97,6 @@
     "Monolithic ICs.md",
     "opamp.md",
     "analog circuit.md",
-    "linear integrated circuit.md",
-    "digital integrated circuit.md",
-    "electronic component.md"
+    "linear integrated circuit.md"
   ]
 }
