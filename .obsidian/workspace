@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "differential signalling.md",
+            "file": "SI.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: op",
+                "query": "SI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "differential signalling.md",
+                "file": "SI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "ampere.md",
     "op-amp.md",
+    "differential signalling.md",
     "differential io.md",
     "EMI.md",
     "differential i/o.md",
     "relation.md",
     "electric circuit.md",
     "digital circuit.md",
-    "difference between analog and digital circuits.md",
-    "electronic circuit.md",
-    "integrated circuit.md"
+    "difference between analog and digital circuits.md"
   ]
 }
