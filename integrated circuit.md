@@ -12,10 +12,6 @@ ICs can be categorized in many ways. Below is the classification of different ty
 
 Types of ICs (Integrated Circuits) based on the method or techniques used in manufacturing them, types of ICs can be divided into three classes:
 
-- Thin and thick film ICs
+- [[Thin and thick film ICs]]
 - Monolithic ICs
--Hybrid or multichip ICs
-Below is the simple explanation of different types of ICs as mentioned above.
-
-Thin and Thick ICs:
-In thin or thick film ICs, passive components such as resistors, capacitors are integrated but the diodes and transistors are connected as separate components to form a single and a complete circuit. Thin and thick ICs that are produced commercially are merely the combination of integrated and discrete (separate) components.
+- Hybrid or multichip ICs

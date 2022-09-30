@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "integrated circuit.md",
+            "file": "IC.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integrated circuit.md",
+                "file": "IC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "Thin and thick film ICs.md",
+    "integrated circuit.md",
     "I2C.md",
     "MOSFET.md",
-    "integrated circuit.md",
     "Subscriber Identity Module.md",
     "opamp.md",
     "turbidity.md",
     "nephelometer.md",
     "KH.md",
-    "water hardness.md",
-    "GH.md"
+    "water hardness.md"
   ]
 }
