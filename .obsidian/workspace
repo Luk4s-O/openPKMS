@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "op-amp.md",
+            "file": "differential signalling.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "op-amp.md",
+                "file": "differential signalling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "differential io.md",
     "op-amp.md",
+    "differential io.md",
     "EMI.md",
     "differential i/o.md",
     "relation.md",
