@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "electronic circuit.md",
+            "file": "electric circuit.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "electrical current",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electronic circuit.md",
+                "file": "electric circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +90,9 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "electronic circuit.md",
     "current.md",
     "electric circuit.md",
-    "electronic circuit.md",
     "integrated circuit.md",
     "Monolithic ICs.md",
     "motion.md",
