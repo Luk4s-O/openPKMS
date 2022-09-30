@@ -1,1 +1,3 @@
 An operational amplifier or op-amp is simply a [[linear Integrated Circuit]] (IC) having multiple-terminals. The op-amp can be considered to be a [[voltage]] amplifying device that is designed to be used with external feedback components such as [[resistor]]s and [[capacitor]]s between its output and input terminals. It is a high-gain electronic voltage amplifier with a [[differential signalling|differential input]] and usually a single-ended output. Op-amps are among the most widely used electronic devices today as they are used in a vast array of consumer, industrial and scientific devices.
+
+1.  an amplifier with high gain and high input impedance (usually with external feedback), used especially in circuits for performing mathematical operations on an input voltage.

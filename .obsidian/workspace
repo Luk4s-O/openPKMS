@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "op-amp.md",
+            "file": "impedance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "op-amp.md",
+                "file": "impedance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "op-amp.md",
     "Leibniz derivative notation.md",
     "fourier transform.md",
     "Croatian boatskipper license.md",
     "SI.md",
     "ampere.md",
-    "op-amp.md",
     "differential signalling.md",
     "differential io.md",
     "EMI.md",
