@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opamp.md",
+            "file": "integrated circuit.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "integrat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opamp.md",
+                "file": "integrated circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "Subscriber Identity Module.md",
+    "opamp.md",
     "turbidity.md",
     "nephelometer.md",
     "KH.md",
@@ -96,8 +99,6 @@
     "GH.md",
     "general hardness.md",
     "README.md",
-    "frequency.md",
-    "fourier transform.md",
-    "FMCW radar.md"
+    "frequency.md"
   ]
 }
