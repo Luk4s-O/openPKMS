@@ -7,8 +7,12 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "reactance.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "reactance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "op-amp.md",
+    "linear integrated circuit.md",
+    "analog circuit.md",
     "amplitude modulation.md",
     "ampere.md",
     "alternating current.md",
     "electrical circuit.md",
     "reactance.md",
     "impedance.md",
-    "electric circuit.md",
-    "electronic circuit.md",
-    "analog circuit.md",
-    "op-amp.md"
+    "electric circuit.md"
   ]
 }
