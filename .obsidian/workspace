@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "relation.md",
+            "file": "op-amp.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circuit",
+                "query": "file: op",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relation.md",
+                "file": "op-amp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "differential i/o.md",
-    "op-amp.md",
     "EMI.md",
+    "differential i/o.md",
+    "relation.md",
+    "op-amp.md",
     "electric circuit.md",
     "digital circuit.md",
     "difference between analog and digital circuits.md",
     "electronic circuit.md",
     "integrated circuit.md",
-    "Monolithic ICs.md",
-    "analog circuit.md"
+    "Monolithic ICs.md"
   ]
 }
