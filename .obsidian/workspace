@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "op-amp.md",
+            "file": "op-amp integration.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "op-amp.md",
+                "file": "op-amp integration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
-    "op-amp functions.md",
     "op-amp.md",
+    "op-amp functions.md",
     "op-amp parameters.md",
     "differential signalling.md",
     "electric circuit.md",
