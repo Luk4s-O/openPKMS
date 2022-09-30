@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IC.md",
+            "file": "integrated circuit.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IC",
+                "query": "integrated",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC.md",
+                "file": "integrated circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "amplitude modulation.md",
+    "calculus.md",
+    "IC.md",
     "Thin and thick film ICs.md",
     "integrated circuit.md",
     "I2C.md",
     "MOSFET.md",
     "Subscriber Identity Module.md",
     "opamp.md",
-    "turbidity.md",
-    "nephelometer.md",
-    "KH.md",
-    "water hardness.md"
+    "turbidity.md"
   ]
 }
