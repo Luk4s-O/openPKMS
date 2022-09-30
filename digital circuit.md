@@ -1,0 +1,1 @@
+is a type of [[electronic circuit]] with a binary variable signal.
