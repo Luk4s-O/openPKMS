@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monolithic ICs.md",
+            "file": "analog circuit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monolithic ICs.md",
+                "file": "analog circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "Monolithic ICs.md",
     "integrated circuit.md",
     "electronic circuit.md",
     "digital circuit.md",
@@ -96,7 +97,6 @@
     "circuit.md",
     "coupling.md",
     "electric circuit.md",
-    "current.md",
-    "Monolithic ICs.md"
+    "current.md"
   ]
 }

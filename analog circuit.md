@@ -1,1 +1,1 @@
-is a type of [[electronic circuit]] with a continuously variable signal
+is a type of [[electronic circuit]] with a continuously variable signal. 
