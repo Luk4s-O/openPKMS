@@ -1,0 +1,1 @@
+An electrical circuit is a network consisting of a closed conductive loop, giving a return path for [[current]].

@@ -7,7 +7,7 @@ there are 7 base units, from which further units are derived.
 | s      | [[second]]   | [[time]]                      |
 | m      | [[meter]]    | [[length]]                    |
 | kg     | [[kilogram]] | [[mass]]                      |
-| A      | [[ampere]]   | [[electric current]]          |
+| A      | [[ampere]]   | [[current]]          |
 | K      | [[kelvin]]   | [[thermodynamic temperature]] |
 | mol    | [[mole]]     | [[amount of substance]]       |
 | cd     | [[candela]]  | [[luminous intensity]]        |
