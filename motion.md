@@ -1,1 +1,1 @@
-is the change of position 
+is the change of position relative to time. it can be expressed as a [[derivative]] of [[position]] in respect to [[time]].
