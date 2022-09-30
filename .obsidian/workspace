@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analog circuit.md",
+            "file": "digital circuit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analog circuit.md",
+                "file": "digital circuit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
     "electronic circuit.md",
+    "analog circuit.md",
     "electric circuit.md",
     "current.md",
     "integrated circuit.md",
@@ -97,7 +98,6 @@
     "motion.md",
     "Thin and thick film ICs.md",
     "SIM.md",
-    "eccentiricity.md",
-    "electronic component.md"
+    "eccentiricity.md"
   ]
 }
