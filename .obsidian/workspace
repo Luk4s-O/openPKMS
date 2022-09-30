@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KH.md",
+            "file": "turbidity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KH.md",
+                "file": "turbidity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "nephelometer.md",
+    "KH.md",
     "water hardness.md",
     "GH.md",
     "general hardness.md",
@@ -96,8 +98,6 @@
     "frequency.md",
     "fourier transform.md",
     "FMCW radar.md",
-    "EMC.md",
-    "generalized power rule.md",
-    "GSM.md"
+    "EMC.md"
   ]
 }
