@@ -1,1 +1,1 @@
-is a type of [[electronic circuit]] 
+is a type of [[electronic circuit]] processing analog signals, which are continuo
