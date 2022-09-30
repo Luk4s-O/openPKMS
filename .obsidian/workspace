@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOSFET.md",
+            "file": "impedance.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electrical",
+                "query": "impeda",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOSFET.md",
+                "file": "impedance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "integrated circuit.md",
+    "MOSFET.md",
     "reactance.md",
     "op-amp.md",
     "linear integrated circuit.md",
@@ -95,8 +98,6 @@
     "amplitude modulation.md",
     "ampere.md",
     "alternating current.md",
-    "electrical circuit.md",
-    "impedance.md",
-    "electric circuit.md"
+    "electrical circuit.md"
   ]
 }
