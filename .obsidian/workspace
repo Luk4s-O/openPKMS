@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "impedance.md",
+            "file": "op-amp.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impeda",
+                "query": "op-",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "impedance.md",
+                "file": "op-amp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "differential signalling.md",
+    "electric circuit.md",
+    "impedance.md",
     "integrated circuit.md",
     "MOSFET.md",
     "reactance.md",
     "op-amp.md",
     "linear integrated circuit.md",
     "analog circuit.md",
-    "amplitude modulation.md",
-    "ampere.md",
-    "alternating current.md",
-    "electrical circuit.md"
+    "amplitude modulation.md"
   ]
 }

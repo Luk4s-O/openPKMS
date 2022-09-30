@@ -1,3 +1,9 @@
 An operational amplifier or op-amp is simply a [[linear Integrated Circuit]] (IC) having multiple-terminals. The op-amp can be considered to be a [[voltage]] amplifying device that is designed to be used with external feedback components such as [[resistor]]s and [[capacitor]]s between its output and input terminals. It is a high-gain electronic voltage amplifier with a [[differential signalling|differential input]] and usually a single-ended output. Op-amps are among the most widely used electronic devices today as they are used in a vast array of consumer, industrial and scientific devices.
 
 1.  an amplifier with high gain and high input impedance (usually with external feedback), used especially in circuits for performing mathematical operations on an input voltage.
+-   **Input offset voltage:** It is the voltage that must be applied between the input terminals of an op-amp to nullify the output.
+-   **Input offset current:** It is the algebraic difference between the currents into the (-) input and (+) input.
+-   **Input bias current:** It is the average of the currents entering into the (-) input and (+) input terminals of an op-amp.
+-   **Input resistance:** It is the differential input resistance as seen at either of the input terminals with the other terminal connected to ground.
+-   **Input capacitance:** It is the equivalent capacitance that can be measured at either of the input terminal with the other terminal connected to ground.
+-   **Slew rate:** It is defined as the maximum rate of change of output voltage caused by a step input voltage. The slew rate improves with higher closed loop gain and DC supply voltage. It is also a function to temperature and generally decreases with an increase in temperature.
