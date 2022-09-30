@@ -1,1 +1,1 @@
-In electrical engineering, impedance is the opposition to [[alternating current]] presented by the combined effect of resistance and reactance in a circuit.
+In electrical engineering, impedance is the opposition to [[alternating current]] presented by the combined effect of resistance and [[reactance]] in a [[electric circuit]].
