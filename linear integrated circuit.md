@@ -1,0 +1,1 @@
+an [[integrated circuit|IC]] which is also a [[digital circuit]]/
