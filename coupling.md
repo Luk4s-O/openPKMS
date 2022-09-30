@@ -1,1 +1,1 @@
-in electronics and telecommunication, coupling is the transfer of electrical energy from one [[circuit]] to another, or between parts of a circuit.
+in electronics and telecommunication, coupling is the transfer of electrical energy from one [[electric circuit]] to another, or between parts of a circuit.
