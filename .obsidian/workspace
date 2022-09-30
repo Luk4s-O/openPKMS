@@ -7,12 +7,8 @@
         "id": "4cf3d7d8c50df86e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Monolithic ICs.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monolithic ICs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "4cf3d7d8c50df86e",
   "lastOpenFiles": [
+    "Monolithic ICs.md",
     "integrated circuit.md",
     "Thin and thick film ICs.md",
     "SIM.md",
@@ -97,7 +93,6 @@
     "electronic component.md",
     "amplitude modulation.md",
     "calculus.md",
-    "IC.md",
-    "I2C.md"
+    "IC.md"
   ]
 }
