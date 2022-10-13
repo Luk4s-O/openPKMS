@@ -1,0 +1,1 @@
+An [[inductor]]’s ability to generate [[inductance]] is measured in a unit called a henry. 

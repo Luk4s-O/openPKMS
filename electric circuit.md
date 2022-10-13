@@ -1,1 +1,1 @@
-An electric circuit is a network consisting of a closed conductive loop, giving a return path for [[current]]. 
+An electric circuit is a network consisting of a closed conductive loop, giving a return path for [[current]]. A common subtype of an electric circuit is the [[electronic circuit]].
